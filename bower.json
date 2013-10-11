@@ -1,0 +1,21 @@
+{
+	"name": "angular-replace-with",
+	"version": "0.1.0",
+	"description": "Angular.JS directive for temporarily replacing button texts (sending, loading etc.)",
+	"author": "Sebastian Wallin",
+	"license": "MIT",
+	"homepage": "http://github.com/wallin/angular-replace-with",
+	"main": "./build/angular-replace-with.js",
+	"ignore": [
+	],
+	"dependencies": {
+		"angular": "~1.x"
+	},
+	"devDependencies": {
+		"angular-mocks": "~1.0.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/wallin/angular-replace-with.git"
+	}
+}
